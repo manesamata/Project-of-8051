@@ -1,0 +1,2 @@
+This project implements a Bluetooth-controlled water pump system using the 8051 microcontroller and UART serial communication. It allows the user to control the pump wirelessly by sending commands from a Bluetooth-enabled mobile device.
+The Bluetooth module communicates with the 8051 microcontroller through UART. The microcontroller processes the received commands and controls the pump using a suitable switching circuit.
